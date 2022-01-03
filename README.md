@@ -12,7 +12,7 @@ pip install pyTelegramBotAPI
   - **chat_id** - Your telegram id, you will find it here **@chat_id_echo_bot**
 
 #### How to start 
-type **/start** to your bot, after that you will get greeting message \n
-by default bot tracking Etherium every 2 minutes
+- type **/start** to your bot, after that you will get greeting message
+- by default bot tracking Etherium every 2 minutes
 
 ![N|Solid](https://i.ibb.co/HdhBtyf/exmpl.png)
