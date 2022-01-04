@@ -14,4 +14,7 @@ pip install pyTelegramBotAPI
 - push **start** on the main frame, after that you will get greeting message
 - by default bot tracking Etherium every 2 minutes
 
+#### Future updates
+In the following updates would be added possibility of changing currencies(crypto and fiat) and time intervals
+
 ![N|Solid](https://i.yapx.ru/P7oyX.png)
