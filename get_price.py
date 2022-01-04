@@ -3,8 +3,8 @@ import requests
 import telebot
 from telebot import types
 
-api_key = 'b97ea0d7-8c57-4af8-9116-15adac8ce0f5'  # Your api from pro.coinmarketcap.com
-bot_key = '5062337339:AAEipbuaOA2Im3dc0yaSXfIGQLVh5abQav8'  # Your bot key
+api_key = '####'  # Your api from pro.coinmarketcap.com
+bot_key = ''####''  # Your bot key
 
 bot = telebot.TeleBot(bot_key)
 currency = 'ETH'  # set up the name of the currency
