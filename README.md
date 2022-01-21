@@ -15,6 +15,6 @@ pip install pyTelegramBotAPI
 - by default bot tracking Etherium every 2 minutes
 
 #### Future updates
-In the following updates would be added possibility of changing currencies(crypto and fiat) and time intervals
+In the following updates would be added possibility of changing currencies(crypto and fiat) and time intervals from the UI directly.
 
 ![N|Solid](https://i.yapx.ru/P7oyX.png)
